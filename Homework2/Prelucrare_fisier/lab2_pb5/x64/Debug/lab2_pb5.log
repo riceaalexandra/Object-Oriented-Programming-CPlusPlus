@@ -1,0 +1,5 @@
+﻿  main.cpp
+  prelucrare_fisier.cpp
+C:\Users\Alexandra\Desktop\OOP\Curs+Lab2_OOP\Prob_Lab_2_OOP_CR2.3A_Ricea_Alexandra\lab2_pb5\lab2_pb5\prelucrare_fisier.cpp(5,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  lab2_pb5.vcxproj -> C:\Users\Alexandra\Desktop\OOP\Curs+Lab2_OOP\Prob_Lab_2_OOP_CR2.3A_Ricea_Alexandra\lab2_pb5\x64\Debug\lab2_pb5.exe

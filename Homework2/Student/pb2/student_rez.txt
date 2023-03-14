@@ -1,0 +1,120 @@
+Numele studentului:
+Cataneanu Adelina
+Varsta: 18ani
+Adresa studentului:
+Oras: Pitesti
+Codul orasului: 54720
+Strada  Cosbuc  Numarul  34
+Numar student: 4077 58754
+Codul facultatii:  AGRO12
+Numar absente: 3
+Medie:3.1
+
+
+
+
+Numele studentului:
+Popescu Mihaela
+Varsta: 20ani
+Adresa studentului:
+Oras: Bucuresti
+Codul orasului: 4567
+Strada  Popovici  Numarul  45
+Numar student: 4077 5678
+Codul facultatii:  UPB12
+Numar absente: 2
+Medie:4.7
+
+
+
+
+Numele studentului:
+Barbulescu Georgiana
+Varsta: 20ani
+Adresa studentului:
+Oras: Bailesti
+Codul orasului: 39753
+Strada  Pelea  Numarul  45
+Numar student: 4077 65438
+Codul facultatii:  AGRO12
+Numar absente: 1
+Medie:5.1
+
+
+
+
+Numele studentului:
+Popescu Andreea
+Varsta: 22ani
+Adresa studentului:
+Oras: Timisoara
+Codul orasului: 56345
+Strada  Aradului  Numarul  23
+Numar student: 4077 56438
+Codul facultatii:  UVTEF
+Numar absente: 0
+Medie:6.1
+
+
+
+
+Numele studentului:
+Pauna Giulia
+Varsta: 20ani
+Adresa studentului:
+Oras: Cluj
+Codul orasului: 245213
+Strada  Paunescu  Numarul  45
+Numar student: 4077 467452
+Codul facultatii:  UBBFMI
+Numar absente: 0
+Medie:8.5
+
+
+
+
+Numele studentului:
+Rimes Irina
+Varsta: 28ani
+Adresa studentului:
+Oras: Chisinau
+Codul orasului: 45734
+Strada  Babes  Numarul  33
+Numar student: 4077 65349
+Codul facultatii:  UNATC12
+Numar absente: 0
+Medie:10
+
+
+
+
+Numele studentului:
+Ricea Alexandra
+Varsta: 20ani
+Adresa studentului:
+Oras: Cluj
+Codul orasului: 24
+Strada  Zorilor  Numarul  34
+Numar student: 4077 7065432
+Codul facultatii:  UBB12
+Numar absente: 0
+Medie:10
+
+
+
+
+Numele studentului:
+Necsulea Adrian
+Varsta: 19ani
+Adresa studentului:
+Oras: Craiova
+Codul orasului: 20079
+Strada  George  Numarul  43
+Numar student: 4077 6786541
+Codul facultatii:  UCVCONT
+Numar absente: 0
+Medie:10
+
+
+
+
