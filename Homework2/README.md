@@ -4,8 +4,8 @@
 numarul acestora fiind cunoscut :<br>
 <ul>
 <li> nume si prenume : sir de maxim 20 de caractere; </li>
-<li> adresa, formata din: nume oras :
-<ul><li>sir de maxim 15 caractere,;</li> <li>cod oras : numar întreg; </li><li>strada : sir de maxim 25 caractere;</li> <li>numar : numar întreg;</li> </ul>
+<li> adresa, formata din:<ul> <li>nume oras :
+sir de maxim 15 caractere,;</li> <li>cod oras : numar întreg; </li><li>strada : sir de maxim 25 caractere;</li> <li>numar : numar întreg;</li> </ul>
 <li> numar de telefon : format din: <ul><li> prefix : numar întreg;</li><li> numar efectiv : numar întreg lung;</li> </ul>
 <li> facultate : cod format din 3 caractere;</li>
 <li> vârsta : numar întreg;</li>
@@ -19,7 +19,7 @@ Sa se realizeze o aplicatie cu urmatoarele functionalitati:<br>
 <li>memorarea datelor citite într-un tablou asociat grupei;</li>
 <li>afisarea datelor din tablou.</li>
 </ul> 
-<li> Folosind aceleai informatii despre studentii unei grupe din
+<li> Folosind aceleasi informatii despre studentii unei grupe din
 problema 1, sa se modifice aplicatia precedenta, astfel încât memorarea studenilor sa se
 faca într-un tablou ce va fi alocat în mod dinamic. Se vor implementa urmatoarele
 operatii:
@@ -31,7 +31,7 @@ operatii:
 </ul></li>
 
 Fisierul de utilizare va contine în funcia main un meniu care afiseaza operatiile amintite,
-  citsete operatia selectata de utilizator si apeleaza functia specifica de tratare.</li>
+  citeste operatia selectata de utilizator si apeleaza functia specifica de tratare.</li>
 <li> Sa se dezvolte aplicaia de la problema 2, adugându-se noi operatii asupra tabloului
 grupei de studenti:<br>
 <ul>
