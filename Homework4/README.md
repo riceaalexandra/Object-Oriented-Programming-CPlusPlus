@@ -13,6 +13,5 @@ specifice pentru urmatoarele operatii:<br>
   <li>Afiarea unei zile calendaristice.</li>
 </ul>
 
-Programul va permite crearea, consultarea si modificarea unei agende<br>
-electronice cu activitatile dintr-o sptamâna. Se vor specifica numai datele
+Programul va permite crearea, consultarea si modificarea unei agende electronice cu activitatile dintr-o sptamâna. Se vor specifica numai datele
 calendaristice, nu si activitatile asociate.<br> </li></ol>
