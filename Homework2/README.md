@@ -1,4 +1,4 @@
-<b> A doua problema din fisier este rezolvata pentru primele 3 enunturi. </b> <br>
+<b> A doua problema din fisier (Student) este rezolvata pentru primele 3 enunturi. </b> <br>
 <ol>
   <li> Se dau urmtoarele informatii despre studentii unei grupe,
 numarul acestora fiind cunoscut :<br>
