@@ -1,18 +1,35 @@
-1.Să se dezvolte un modul pentru operaţii cu liste. Să se utilizeze acest modul pentru
-rezolvarea următoarei aplicaţii:<br\>
-Pentru concurenţii unui concurs de admitere se cunosc următoarele informaţii:<br\>
-nume, nota obţinută. Să se scrie un program care să permită următoarele operaţii:<br\>
-- creare listei cu concurenţi;<br\>
-- sortarea listei dupa nota;<br\>
-- căutare în listă după nume;<br\>
-- separarea în doua liste (concurenţi admişi şi respinşi);<br\>
-- afişarea listelor. <br\>
-2.Să se realizeze un program care permite implementarea funcţionării unui automat
-bancar. Principalele operaţii care se pot efectua in timpul unei sesiuni de lucru sunt:<br\>
-- deschiderea unei sesiuni de lucru;<br\>
-- inchiderea sesiunii de lucru;<br\>
-- efectuarea principalelor tranzactii:<br\>
-- extragerea unei sume de bani din contul curent;<br\>
-- afisarea soldului curent;<br\>
-- transferul unei sume de bani din contul curent intr-un alt cont al
-clientului de la aceeasi banca.<br\>
+1.Să se proiecteze și să se implementeze o clasă Calendar. Interfața clasei
+trebuie să permită utilizatorului următoarele operații:
+- specificarea anului de început al calendarului;
+- specificarea duratei (în ani) pentru care este conceput calendarul;
+- specificarea unei perechi (luna, an), pentru care se va afișa calendarul.
+Singurele sărbători care se vor lua în considerare sunt:
+- ziua de duminică;
+- zilele de 1 și 2 ianuarie;
+- ziua naționala a Romaniei;
+- prima și a doua zi de Crăciun;
+- prima și a doua zi de Paști.
+2. Să se dezvolte un modul pentru operații cu liste de numere întregi. Funcția
+principală (main) va utiliza acest modul, afisând un meniu pentru efectuarea
+următoarelor operații: adăugarea unui element în lista, ștergerea unui element
+din listă, eliminarea din listă a elementelor care au valoarea mai mică decât o
+valoare dată, calculul mediei aritmetice a elementelor din listă, afișarea listei,
+precum și iesirea din meniu. Pentru clasele care se referă la listă, respectiv nod
+se vor utiliza noțiunile de clase prietene și clase imbricate.
+3. Să se dezvolte un modul pentru gestiunea operațiilor efectuate asupra unei
+cărți de telefon. Fiecare abonat este identificat prin nume, adresă și număr de
+telefon, cartea de telefon fiind o listă de abonați. Operațiile ce se pot efectua sunt
+următoarele: adăugarea unui abonat nou, căutarea unui abonat după nume și
+afișarea numărului de telefon. Să se scrie un program de test care să utilizeze
+aceste operații. Pentru clasele care se referă la adresă, respectiv abonat și
+clasele care se referă la listă, respectiv nod se vor utiliza noțiunile de clase
+prietene și clase imbricate.
+4. Să se proiecteze și implementeze o clasă ce definește un cuvânt, împreună cu
+o listă de cuvinte sinonime cu acesta. Principalele operații ce se pot efectua
+asupra clasei sunt cele de adăugare a unui nou sinonim pentru un cuvânt,
+precum și de afișare a listei de sinonime a cuvântului. Să se implementeze
+funcțiile constructor și destructor, precum și funcțiile membre ce realizează
+operațiile specificate. Lista de sinonime se va stoca ordonată lexicografic.
+Programul va simula crearea și consultarea unui dicționar de sinonime,
+reprezentat de un tablou de cuvinte, fiecare cu sinonimele asociate. Se vor utiliza
+noțiunile de clase prietene și clase imbricate.
