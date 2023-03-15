@@ -24,12 +24,3 @@ afișarea numărului de telefon. Să se scrie un program de test care să utiliz
 aceste operații. Pentru clasele care se referă la adresă, respectiv abonat și
 clasele care se referă la listă, respectiv nod se vor utiliza noțiunile de clase
 prietene și clase imbricate.
-4. Să se proiecteze și implementeze o clasă ce definește un cuvânt, împreună cu
-o listă de cuvinte sinonime cu acesta. Principalele operații ce se pot efectua
-asupra clasei sunt cele de adăugare a unui nou sinonim pentru un cuvânt,
-precum și de afișare a listei de sinonime a cuvântului. Să se implementeze
-funcțiile constructor și destructor, precum și funcțiile membre ce realizează
-operațiile specificate. Lista de sinonime se va stoca ordonată lexicografic.
-Programul va simula crearea și consultarea unui dicționar de sinonime,
-reprezentat de un tablou de cuvinte, fiecare cu sinonimele asociate. Se vor utiliza
-noțiunile de clase prietene și clase imbricate.
