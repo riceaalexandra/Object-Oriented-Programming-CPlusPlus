@@ -1,17 +1,16 @@
-1.S se proiecteze i s se implementeze o clas pentru gestionarea
-datelor calendaristice. O dat calendaristic este un ir de caractere de
-forma <zi>/<luna>/<an> i poate fi transformat într-un întreg
-reprezentând numrul zilei respective din anul curent (ex.: data
-“1/februarie/2002” are asociat numrul 32). S se scrie funcii membru
-specifice pentru urmtoarele operaii:
-• crearea unei date calendaristice plecând de la irul de caractere
-aferent;
-
-• crearea unei date calendaristice plecând de la numrul asociat zilei;
-• verificarea validitii unei date calendaristice;
-• modificarea zilei, lunii sau a anului unei date calendaristice;
-• accesul la ziua, luna sau anul unei date calendaristice;
-• afiarea unei zile calendaristice.
-Programul va permite crearea, consultarea i modificarea unei agende
-electronice cu activitile dintr-o sptmân. Se vor specifica numai datele
-calendaristice, nu i activitile asociate.
+1.Sa se proiecteze si sa se implementeze o clasa pentru gestionarea
+datelor calendaristice. O data calendaristica este un sir de caractere de
+forma zi/luna/an si poate fi transformata într-un întreg
+reprezentând numarul zilei respective din anul curent (ex.: data
+“1/februarie/2002” are asociat numrul 32). Sa se scrie functii membru
+specifice pentru urmatoarele operatii:<br>
+• crearea unei date calendaristice plecând de la sirul de caractere
+aferent;<br>
+• crearea unei date calendaristice plecând de la numarul asociat zilei;<br>
+• verificarea validitii unei date calendaristice;<br>
+• modificarea zilei, lunii sau a anului unei date calendaristice;<br>
+• accesul la ziua, luna sau anul unei date calendaristice;<br>
+• afiarea unei zile calendaristice.<br>
+Programul va permite crearea, consultarea si modificarea unei agende<br>
+electronice cu activitatile dintr-o sptamâna. Se vor specifica numai datele
+calendaristice, nu si activitatile asociate.<br>
