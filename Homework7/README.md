@@ -14,8 +14,8 @@ calculul unor expresii.<br> </li>
 <li> Sa se proiecteze si sa se implementeze o clasa asociata numerelor frationare. Clasa va
 contine supraincarcarea operatorului de atribuire, a principalilor operatori aritmetici,
 precum si a operatorului ! pentru operatia de simplificare a unui numar rational. De
-asemenea, clasa trebuie sa posede o functie de afisare, precum si constructori adecvati. </li>
-<li> Sa se proiecteze si sa se implementeze o clasa pentru polinoamele cu coeficienti reali.
+asemenea, clasa trebuie sa posede o functie de afisare, precum si constructori adecvati. </li><br>
+4.Sa se proiecteze si sa se implementeze o clasa pentru polinoamele cu coeficienti reali.
 Clasa va contine supraincarcarea operatorului de atribuire, a principalilor operatori
 aritmetici, precum si a operatorului () pentru evaluarea polinomului intr-un punct data.
 De asemenea, se va supraincarca operatorul [] pentru accesul la coeficientii polinomului.
