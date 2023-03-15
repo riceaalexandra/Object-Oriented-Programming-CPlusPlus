@@ -1,4 +1,4 @@
-<b> Prima problema este rezolvata pentru primele 3 enunturi. </b> <br>
+<b> A doua problema din fisier este rezolvata pentru primele 3 enunturi. </b> <br>
 1. Se dau urmtoarele informatii despre studentii unei grupe,
 numarul acestora fiind cunoscut :<br>
 • nume si prenume : sir de maxim 20 de caractere; <br>
