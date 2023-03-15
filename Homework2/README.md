@@ -20,7 +20,7 @@ Sa se realizeze o aplicatie cu urmatoarele functionalitati:<br>
 <li>afisarea datelor din tablou.</li>
 </ul> 
 <li> Folosind aceleai informatii despre studentii unei grupe din
-problema 2, sa se modifice aplicatia precedenta, astfel încât memorarea studenilor sa se
+problema 1, sa se modifice aplicatia precedenta, astfel încât memorarea studenilor sa se
 faca într-un tablou ce va fi alocat în mod dinamic. Se vor implementa urmatoarele
 operatii:
 <ul>
@@ -32,7 +32,7 @@ operatii:
 
 Fisierul de utilizare va contine în funcia main un meniu care afiseaza operatiile amintite,
   citsete operatia selectata de utilizator si apeleaza functia specifica de tratare.</li>
-<li> Sa se dezvolte aplicaia de la problema 3, adugându-se noi operatii asupra tabloului
+<li> Sa se dezvolte aplicaia de la problema 2, adugându-se noi operatii asupra tabloului
 grupei de studenti:<br>
 <ul>
   <li> determinarea studentului (sau a studentilor) cu cele mai multe restante si absente de la examene;</li>
