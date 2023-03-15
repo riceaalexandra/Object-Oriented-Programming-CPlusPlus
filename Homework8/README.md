@@ -18,9 +18,9 @@ funcţionale. Să se realizeze clasa CRetea care va avea un nume, un număr maxi
 utilizatori din care unul singur poate fi administrator.</li>
 <li> Să se realizeze o ierarhie de clase care să descrie habitatul animalelor dintr-o rezervaţie
 naturală. În rezervaţie pot fi întâlnite următoarele animale: iepuri, urşi, căprioare, vulpi şi
-lei. Unele dintre animale sunt ierbivore, alte carnivore sau chiar ierbivore şi carnivore.
+lei. Unele dintre animale sunt erbivore, alte carnivore sau chiar erbivore şi carnivore.
 Ierarhia de clase va avea clasa de bază CAnimal, clasă abstractă, din care se vor deriva
-două clase : CAnimalIerbivor şi CAnimalCarnivor. Pentru fiecare tip de animal se va
+două clase : CAnimalErbivor şi CAnimalCarnivor. Pentru fiecare tip de animal se va
 proiecta o clasă corespunzătoare care va extinde una din clase de mai sus, sau ambele
 clase, corespunzător modului de hranire a animalului.
 Despre un animal se cunosc următoarele informaţii comune: nume, data aducerii,
