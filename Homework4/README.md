@@ -1,18 +1,17 @@
-1.Să se dezvolte un modul pentru operaţii cu liste. Să se utilizeze acest modul pentru
-rezolvarea următoarei aplicaţii:<br\>
-Pentru concurenţii unui concurs de admitere se cunosc următoarele informaţii:<br\>
-nume, nota obţinută. Să se scrie un program care să permită următoarele operaţii:<br\>
-- creare listei cu concurenţi;<br\>
-- sortarea listei dupa nota;<br\>
-- căutare în listă după nume;<br\>
-- separarea în doua liste (concurenţi admişi şi respinşi);<br\>
-- afişarea listelor. <br\>
-2.Să se realizeze un program care permite implementarea funcţionării unui automat
-bancar. Principalele operaţii care se pot efectua in timpul unei sesiuni de lucru sunt:<br\>
-- deschiderea unei sesiuni de lucru;<br\>
-- inchiderea sesiunii de lucru;<br\>
-- efectuarea principalelor tranzactii:<br\>
-- extragerea unei sume de bani din contul curent;<br\>
-- afisarea soldului curent;<br\>
-- transferul unei sume de bani din contul curent intr-un alt cont al
-clientului de la aceeasi banca.<br\>
+1.S se proiecteze i s se implementeze o clas pentru gestionarea
+datelor calendaristice. O dat calendaristic este un ir de caractere de
+forma <zi>/<luna>/<an> i poate fi transformat într-un întreg
+reprezentând numrul zilei respective din anul curent (ex.: data
+“1/februarie/2002” are asociat numrul 32). S se scrie funcii membru
+specifice pentru urmtoarele operaii:
+• crearea unei date calendaristice plecând de la irul de caractere
+aferent;
+
+• crearea unei date calendaristice plecând de la numrul asociat zilei;
+• verificarea validitii unei date calendaristice;
+• modificarea zilei, lunii sau a anului unei date calendaristice;
+• accesul la ziua, luna sau anul unei date calendaristice;
+• afiarea unei zile calendaristice.
+Programul va permite crearea, consultarea i modificarea unei agende
+electronice cu activitile dintr-o sptmân. Se vor specifica numai datele
+calendaristice, nu i activitile asociate.
