@@ -1,4 +1,3 @@
-#Homework 1
 <ol><li> Să se dezvolte un modul pentru operaţii cu liste. Să se utilizeze acest modul pentru
 rezolvarea următoarei aplicaţii: <br>
 Pentru concurenţii unui concurs de admitere se cunosc următoarele informaţii:
