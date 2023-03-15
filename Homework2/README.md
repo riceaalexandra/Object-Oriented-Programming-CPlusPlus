@@ -1,18 +1,50 @@
-1.Să se dezvolte un modul pentru operaţii cu liste. Să se utilizeze acest modul pentru
-rezolvarea următoarei aplicaţii:<br\>
-Pentru concurenţii unui concurs de admitere se cunosc următoarele informaţii:<br\>
-nume, nota obţinută. Să se scrie un program care să permită următoarele operaţii:<br\>
-- creare listei cu concurenţi;<br\>
-- sortarea listei dupa nota;<br\>
-- căutare în listă după nume;<br\>
-- separarea în doua liste (concurenţi admişi şi respinşi);<br\>
-- afişarea listelor. <br\>
-2.Să se realizeze un program care permite implementarea funcţionării unui automat
-bancar. Principalele operaţii care se pot efectua in timpul unei sesiuni de lucru sunt:<br\>
-- deschiderea unei sesiuni de lucru;<br\>
-- inchiderea sesiunii de lucru;<br\>
-- efectuarea principalelor tranzactii:<br\>
-- extragerea unei sume de bani din contul curent;<br\>
-- afisarea soldului curent;<br\>
-- transferul unei sume de bani din contul curent intr-un alt cont al
-clientului de la aceeasi banca.<br\>
+<b> Prima problema este rezolvata pentru primele 4 enunturi. </b> <br>
+1. Se dau urmtoarele informaii despre studenii unei grupe,
+numrul acestora fiind cunoscut :<br>
+• nume si prenume : sir de maxim 20 de caractere; <br>
+• adresa, formata din:<br>
+    o nume oras : sir de maxim 15 caractere;<br>
+    o cod oras : numar întreg;<br>
+    o strada : sir de maxim 25 caractere;<br>
+    o numar : numar întreg;<br>
+• numar de telefon : format din<br>
+    o prefix : numr întreg;<br>
+    o numr efectiv : numr întreg lung;<br>
+• facultate : cod format din 3 caractere;<br>
+• vârsta : numar întreg;<br>
+• note : tablou de 10 numere întregi;<br>
+• media de promovare;<br>
+• numar de absente la examene.<br>
+Sa se realizeze o aplicaie cu urmtoarele functionaliti:<br>
+• citerea datelor studentilor dintr-o grup;<br>
+• memorarea datelor citite într-un tablou asociat grupei;<br>
+• afisarea datelor din tablou.
+3. (Operatorii new si delete) Folosind aceleai informatii despre studentii unei grupe din
+problema 2, sa se modifice aplicatia precedenta, astfel încât memorarea studenilor sa se
+fac într-un tablou ce va fi alocat în mod dinamic. Se vor implementa urmatoarele
+operatii:<br>
+• crearea tabloului;<br>
+• adugarea unui nou student în tablou; în cazul în care tabloul nu mai are elemente
+disponibile, se efectueaza o realocare a acestuia la o dimensiune mai mare;<br>
+• modificarea informatiilor aferente unui student;<br>
+• stergerea unui student din tablou.<br>
+Fisierul de utilizare va contine în funcia main un meniu care afieaza operaiile amintite,
+citsete operatia selectata de utilizator si apeleaza funcia specifica de tratare.
+4. Sa se dezvolte aplicaia de la problema 3, adugându-se noi operatii asupra tabloului
+grupei de studenti:<br>
+• determinarea studentului (sau a studentilor) cu media cea mai mare;<br>
+• determinarea studentului (sau a studentilor) cu cele mai multe restante si absente
+de la examene;<br>
+• afisarea studentilor promovati:<br>
+  o în ordine alfabetica, dupa nume si prenume;<br>
+  o în ordinea descresctoare a mediilor;<br>
+• afiarea studenilor restanieri:<br>
+  o în ordine alfabetic, dupa nume si prenume;<br>
+  o în ordinea cresctoare a numrului de restane si absente;
+5. Sa se dezvolte un modul pentru prelucrarea fisierelor sursa .cpp
+introduse de la tastatura. Se vor considera urmtoarele operatii:<br>
+• eliminarea comentariilor din fiier si afisarea fisierului modificat la terminalul
+standard de iesire;<br>
+• contorizarea numrului de cuvinte din fisier;<br>
+• contorizarea numrului de linii din fsiier;<br>
+Fisierul de test va conine apelul pe rând al celor trei operatii.<br>
