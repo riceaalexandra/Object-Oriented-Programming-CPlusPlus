@@ -3,13 +3,13 @@
 numrul acestora fiind cunoscut :<br>
 • nume si prenume : sir de maxim 20 de caractere; <br>
 • adresa, formata din:<br>
-    o nume oras : sir de maxim 15 caractere;<br>
-    o cod oras : numar întreg;<br>
-    o strada : sir de maxim 25 caractere;<br>
-    o numar : numar întreg;<br>
+- nume oras : sir de maxim 15 caractere;<br>
+- cod oras : numar întreg;<br>
+- strada : sir de maxim 25 caractere;<br>
+- numar : numar întreg;<br>
 • numar de telefon : format din<br>
-    o prefix : numr întreg;<br>
-    o numr efectiv : numr întreg lung;<br>
+    - prefix : numr întreg;<br>
+    - numr efectiv : numr întreg lung;<br>
 • facultate : cod format din 3 caractere;<br>
 • vârsta : numar întreg;<br>
 • note : tablou de 10 numere întregi;<br>
