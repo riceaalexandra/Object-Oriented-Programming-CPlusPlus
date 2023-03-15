@@ -1,0 +1,20 @@
+#pragma once
+#include "Punct.h"
+/*
+	A__________B			
+	 |		   |
+	D|_________|C
+	*/
+class Dreptunghi {
+private:
+	Punct *A, *B;
+	Punct C, D;        //cu ajutorul a 2 puncte care formeaza diagonala, se poate calcula aria si perimetru (A stanga jos, iar B dreapta sus)
+					   //Daca avem A(x1,y1) si B(x2,y2) => putem deduce ca C(dreapta jos) are coordonatele (x2,y1), iar D(stanga sus) are coordonatele (x1,y2)
+	double lungime, latime;
+public:
+	Dreptunghi(Punct *A, Punct *B); //cu ajutorul a 2 puncte care formeaza diagonala, se poate calcula aria si perimetru (A stanga jos, iar B dreapta sus)
+	                              //Daca avem A(x1,y1) si B(x2,y2) => putem deduce ca C(dreapta jos) are coordonatele (x2,y1), iar D(stanga sus) are coordonatele (x1,y2)
+	void Arie();
+	void Perimetru();
+};
+
