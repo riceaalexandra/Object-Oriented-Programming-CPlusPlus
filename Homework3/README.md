@@ -77,4 +77,4 @@ cartilor dintr-o biblioteca. Pentru fiecare carte trebuie specificate:<br>
 Programul va permite crearea unui tablou cu cartile dintr-o biblioteca si
 posibilitatea de cautare a unor carti în funcite de: titlu, editura, sau ISBN.
 Functiile clasei vor fi scrise astfel încât sa permita operatiile mentionate
-mai sus. </li></ol>
+mai sus. Citirea se va face din fisier. </li></ol>
