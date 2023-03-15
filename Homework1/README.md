@@ -12,7 +12,7 @@ nume, nota obţinută. Să se scrie un program care să permită următoarele op
      2. Să se realizeze un program care permite implementarea funcţionării unui automat
 bancar. Principalele operaţii care se pot efectua in timpul unei sesiuni de lucru sunt:<br/>
 - deschiderea unei sesiuni de lucru;<br/>
-- - citirea si afisarea de fisier.<br>
+- citirea si afisarea de fisier.<br>
 - inchiderea sesiunii de lucru;<br/>
 - efectuarea principalelor tranzactii: extragerea unei sume de bani din contul curent, afisarea soldului curent, transferul unei sume de bani din contul curent intr-un alt cont al
 clientului de la aceeasi banca.<br/>
