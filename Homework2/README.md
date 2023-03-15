@@ -1,5 +1,6 @@
 <b> A doua problema din fisier este rezolvata pentru primele 3 enunturi. </b> <br>
-1. Se dau urmtoarele informatii despre studentii unei grupe,
+<ol>
+  <li> Se dau urmtoarele informatii despre studentii unei grupe,
 numarul acestora fiind cunoscut :<br>
 <ul>
 <li> nume si prenume : sir de maxim 20 de caractere; </li>
@@ -17,8 +18,8 @@ Sa se realizeze o aplicatie cu urmatoarele functionalitati:<br>
 <li>citirea datelor studentilor dintr-o grupa;</li>
 <li>memorarea datelor citite într-un tablou asociat grupei;</li>
 <li>afisarea datelor din tablou.</li>
-</ul>
-2. Folosind aceleai informatii despre studentii unei grupe din
+</ul> 
+<li> Folosind aceleai informatii despre studentii unei grupe din
 problema 2, sa se modifice aplicatia precedenta, astfel încât memorarea studenilor sa se
 faca într-un tablou ce va fi alocat în mod dinamic. Se vor implementa urmatoarele
 operatii:
@@ -27,11 +28,11 @@ operatii:
 <li>adugarea unui nou student în tablou; în cazul în care tabloul nu mai are elemente disponibile, se efectueaza o realocare a acestuia la o dimensiune mai mare;</li>
 <li>modificarea informatiilor aferente unui student;</li>
 <li>stergerea unui student din tablou.</li>
-</ul>
+</ul></li>
 
 Fisierul de utilizare va contine în funcia main un meniu care afiseaza operatiile amintite,
-citsete operatia selectata de utilizator si apeleaza functia specifica de tratare.
-3. Sa se dezvolte aplicaia de la problema 3, adugându-se noi operatii asupra tabloului
+  citsete operatia selectata de utilizator si apeleaza functia specifica de tratare.</li>
+<li> Sa se dezvolte aplicaia de la problema 3, adugându-se noi operatii asupra tabloului
 grupei de studenti:<br>
 <ul>
   <li> determinarea studentului (sau a studentilor) cu cele mai multe restante si absente de la examene;</li>
@@ -48,8 +49,8 @@ grupei de studenti:<br>
     </ul>
   </li>
   <li> determinarea studentului (sau a studentilor) cu media cea mai mare;</li>
-</ul>
-4. Sa se dezvolte un modul pentru prelucrarea fisierelor sursa .cpp
+</ul></li>
+<li> Sa se dezvolte un modul pentru prelucrarea fisierelor sursa .cpp
 introduse de la tastatura. Se vor considera urmatoarele operatii:<br>
 
 <ul>
@@ -57,4 +58,4 @@ introduse de la tastatura. Se vor considera urmatoarele operatii:<br>
 <li>contorizarea numarului de cuvinte din fisier;</li>
 <li>contorizarea numarului de linii din fisier;</li>
 </ul>
-Fisierul de test va conine apelul pe rând al celor trei operatii.<br>
+Fisierul de test va conine apelul pe rând al celor trei operatii.<br> </li>
